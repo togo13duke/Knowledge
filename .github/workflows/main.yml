@@ -59,4 +59,4 @@ jobs:
           publish_branch: pages
           publish_dir: docs/
           force_orphan: true
-          #cname: example.com
+          cname: knowledge.duke13.com
