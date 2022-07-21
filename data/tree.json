@@ -1,0 +1,70 @@
+{
+  "roots": [
+    {
+      "key": "ocsje47s1ovu7we2ng0bkbz",
+      "title": "Home",
+      "icon": null,
+      "hasTitleNumberOutlined": false,
+      "vaultName": "Knowledge",
+      "navExclude": false,
+      "children": []
+    },
+    {
+      "key": "p0s41br2ag4w1p46f8uauz6",
+      "title": "Programming",
+      "icon": null,
+      "hasTitleNumberOutlined": false,
+      "vaultName": "Knowledge",
+      "navExclude": false,
+      "children": [
+        {
+          "key": "a30pc3enkt5naijthr3nuzc",
+          "title": "Python",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "Knowledge",
+          "navExclude": false,
+          "children": [
+            {
+              "key": "i3dyljwjzn5ibud4anomj77",
+              "title": "Basic",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Knowledge",
+              "navExclude": false,
+              "children": [
+                {
+                  "key": "uaqpw9cclw94p6jvfumjkb8",
+                  "title": "Gettingstarted",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "Knowledge",
+                  "navExclude": false,
+                  "children": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "xfjhc7rce1967ijg3tcku65",
+      "title": "OS",
+      "icon": null,
+      "hasTitleNumberOutlined": false,
+      "vaultName": "Knowledge",
+      "navExclude": false,
+      "children": []
+    }
+  ],
+  "child2parent": {
+    "403": null,
+    "xfjhc7rce1967ijg3tcku65": null,
+    "p0s41br2ag4w1p46f8uauz6": null,
+    "a30pc3enkt5naijthr3nuzc": "p0s41br2ag4w1p46f8uauz6",
+    "i3dyljwjzn5ibud4anomj77": "a30pc3enkt5naijthr3nuzc",
+    "uaqpw9cclw94p6jvfumjkb8": "i3dyljwjzn5ibud4anomj77",
+    "ocsje47s1ovu7we2ng0bkbz": null
+  }
+}

@@ -1,0 +1,510 @@
+{
+  "notes": {
+    "403": {
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "Knowledge"
+      },
+      "fname": "403",
+      "id": "403",
+      "title": "This page has not yet sprouted",
+      "schemaStub": false,
+      "type": "note",
+      "updated": 1658404424844,
+      "created": 1658404424844,
+      "desc": "",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": null,
+      "data": {}
+    },
+    "xfjhc7rce1967ijg3tcku65": {
+      "id": "xfjhc7rce1967ijg3tcku65",
+      "title": "OS",
+      "desc": "",
+      "updated": 1657634952425,
+      "created": 1657629869144,
+      "custom": {
+        "nav_order": 2
+      },
+      "fname": "os",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "Knowledge"
+      },
+      "contentHash": "d2497e75f23a15bb6b2b0a6bb82a3af6",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": null,
+      "data": {}
+    },
+    "p0s41br2ag4w1p46f8uauz6": {
+      "id": "p0s41br2ag4w1p46f8uauz6",
+      "title": "Programming",
+      "desc": "",
+      "updated": 1658404300294,
+      "created": 1657629893789,
+      "custom": {
+        "nav_order": 1
+      },
+      "fname": "programming",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "Knowledge"
+      },
+      "contentHash": "0fe6b1ba1b974f64525d5edcf95290db",
+      "links": [
+        {
+          "type": "ref",
+          "from": {
+            "fname": "programming",
+            "id": "p0s41br2ag4w1p46f8uauz6",
+            "vaultName": "Knowledge"
+          },
+          "value": "programming.python",
+          "position": {
+            "start": {
+              "line": 2,
+              "column": 1,
+              "offset": 1
+            },
+            "end": {
+              "line": 2,
+              "column": 33,
+              "offset": 33
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "to": {
+            "fname": "programming.python"
+          }
+        }
+      ],
+      "anchors": {},
+      "children": [
+        "a30pc3enkt5naijthr3nuzc"
+      ],
+      "parent": null,
+      "data": {}
+    },
+    "a30pc3enkt5naijthr3nuzc": {
+      "id": "a30pc3enkt5naijthr3nuzc",
+      "title": "Python",
+      "desc": "",
+      "updated": 1658403966860,
+      "created": 1658401955837,
+      "custom": {},
+      "fname": "programming.python",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "Knowledge"
+      },
+      "contentHash": "cbc353ba30b079569368e12395694782",
+      "links": [
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "programming.python",
+            "id": "a30pc3enkt5naijthr3nuzc",
+            "vaultName": "Knowledge"
+          },
+          "value": "programming.python.basic",
+          "alias": "Python言語基礎",
+          "position": {
+            "start": {
+              "line": 40,
+              "column": 4,
+              "offset": 822
+            },
+            "end": {
+              "line": 40,
+              "column": 48,
+              "offset": 866
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "programming.python.basic"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "programming.python",
+            "id": "a30pc3enkt5naijthr3nuzc",
+            "vaultName": "Knowledge"
+          },
+          "value": "programming.python.basic.gettingstarted",
+          "alias": "ようこそPython",
+          "position": {
+            "start": {
+              "line": 42,
+              "column": 5,
+              "offset": 872
+            },
+            "end": {
+              "line": 42,
+              "column": 64,
+              "offset": 931
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "programming.python.basic.gettingstarted"
+          }
+        },
+        {
+          "from": {
+            "fname": "programming",
+            "vaultName": "Knowledge"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 2,
+              "column": 1,
+              "offset": 1
+            },
+            "end": {
+              "line": 2,
+              "column": 33,
+              "offset": 33
+            },
+            "indent": []
+          },
+          "value": "programming.python"
+        }
+      ],
+      "anchors": {
+        "python-学習メモ": {
+          "type": "header",
+          "text": "Python 学習メモ",
+          "value": "python-学習メモ",
+          "line": 8,
+          "column": 0,
+          "depth": 1
+        },
+        "pythonの概要使用領域展望": {
+          "type": "header",
+          "text": "Pythonの概要・使用領域・展望",
+          "value": "pythonの概要使用領域展望",
+          "line": 12,
+          "column": 0,
+          "depth": 2
+        },
+        "python言語基礎": {
+          "type": "header",
+          "text": "Python言語基礎",
+          "value": "python言語基礎",
+          "line": 46,
+          "column": 0,
+          "depth": 2
+        },
+        "ようこそpython": {
+          "type": "header",
+          "text": "ようこそPython",
+          "value": "ようこそpython",
+          "line": 48,
+          "column": 0,
+          "depth": 3
+        }
+      },
+      "children": [
+        "i3dyljwjzn5ibud4anomj77"
+      ],
+      "parent": "p0s41br2ag4w1p46f8uauz6",
+      "data": {}
+    },
+    "i3dyljwjzn5ibud4anomj77": {
+      "id": "i3dyljwjzn5ibud4anomj77",
+      "title": "Basic",
+      "desc": "",
+      "updated": 1658403024986,
+      "created": 1658403024986,
+      "custom": {},
+      "fname": "programming.python.basic",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "Knowledge"
+      },
+      "contentHash": "8905c7e392001c7ff1765c57f1dc5223",
+      "links": [
+        {
+          "from": {
+            "fname": "programming.python",
+            "vaultName": "Knowledge"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 40,
+              "column": 4,
+              "offset": 822
+            },
+            "end": {
+              "line": 40,
+              "column": 48,
+              "offset": 866
+            },
+            "indent": []
+          },
+          "value": "programming.python.basic",
+          "alias": "Python言語基礎"
+        }
+      ],
+      "anchors": {},
+      "children": [
+        "uaqpw9cclw94p6jvfumjkb8"
+      ],
+      "parent": "a30pc3enkt5naijthr3nuzc",
+      "data": {}
+    },
+    "uaqpw9cclw94p6jvfumjkb8": {
+      "id": "uaqpw9cclw94p6jvfumjkb8",
+      "title": "Gettingstarted",
+      "desc": "",
+      "updated": 1658403269815,
+      "created": 1658403258952,
+      "custom": {},
+      "fname": "programming.python.basic.gettingstarted",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "Knowledge"
+      },
+      "contentHash": "92b684280ebed7c74be8624234254a42",
+      "links": [
+        {
+          "from": {
+            "fname": "programming.python",
+            "vaultName": "Knowledge"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 42,
+              "column": 5,
+              "offset": 872
+            },
+            "end": {
+              "line": 42,
+              "column": 64,
+              "offset": 931
+            },
+            "indent": []
+          },
+          "value": "programming.python.basic.gettingstarted",
+          "alias": "ようこそPython"
+        }
+      ],
+      "anchors": {},
+      "children": [],
+      "parent": "i3dyljwjzn5ibud4anomj77",
+      "data": {}
+    },
+    "ocsje47s1ovu7we2ng0bkbz": {
+      "id": "ocsje47s1ovu7we2ng0bkbz",
+      "title": "Home",
+      "desc": "",
+      "updated": 1658401933494,
+      "created": 1657629956614,
+      "custom": {
+        "nav_order": 0,
+        "permalink": "/"
+      },
+      "fname": "home",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "Knowledge"
+      },
+      "contentHash": "3d26f5a5483974717e2af09b1bdac95c",
+      "links": [],
+      "anchors": {
+        "私のナレッジベースへようこそ": {
+          "type": "header",
+          "text": "私のナレッジベースへようこそ",
+          "value": "私のナレッジベースへようこそ",
+          "line": 8,
+          "column": 0,
+          "depth": 1
+        }
+      },
+      "children": [],
+      "parent": null,
+      "data": {}
+    }
+  },
+  "domains": [
+    {
+      "id": "ocsje47s1ovu7we2ng0bkbz",
+      "title": "Home",
+      "desc": "",
+      "updated": 1658401933494,
+      "created": 1657629956614,
+      "custom": {
+        "nav_order": 0,
+        "permalink": "/"
+      },
+      "fname": "home",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "Knowledge"
+      },
+      "contentHash": "3d26f5a5483974717e2af09b1bdac95c",
+      "links": [],
+      "anchors": {
+        "私のナレッジベースへようこそ": {
+          "type": "header",
+          "text": "私のナレッジベースへようこそ",
+          "value": "私のナレッジベースへようこそ",
+          "line": 8,
+          "column": 0,
+          "depth": 1
+        }
+      },
+      "children": [],
+      "parent": null,
+      "data": {},
+      "body": "\n# 私のナレッジベースへようこそ\n\nバラバラの知識をどうにか体系的にまとめるためのサイトです。\n"
+    },
+    {
+      "id": "p0s41br2ag4w1p46f8uauz6",
+      "title": "Programming",
+      "desc": "",
+      "updated": 1658404300294,
+      "created": 1657629893789,
+      "custom": {
+        "nav_order": 1
+      },
+      "fname": "programming",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "Knowledge"
+      },
+      "contentHash": "0fe6b1ba1b974f64525d5edcf95290db",
+      "links": [
+        {
+          "type": "ref",
+          "from": {
+            "fname": "programming",
+            "id": "p0s41br2ag4w1p46f8uauz6",
+            "vaultName": "Knowledge"
+          },
+          "value": "programming.python",
+          "position": {
+            "start": {
+              "line": 2,
+              "column": 1,
+              "offset": 1
+            },
+            "end": {
+              "line": 2,
+              "column": 33,
+              "offset": 33
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "to": {
+            "fname": "programming.python"
+          }
+        }
+      ],
+      "anchors": {},
+      "children": [
+        "a30pc3enkt5naijthr3nuzc"
+      ],
+      "parent": null,
+      "data": {},
+      "body": "\n![[Python | programming.python]]\n"
+    },
+    {
+      "id": "xfjhc7rce1967ijg3tcku65",
+      "title": "OS",
+      "desc": "",
+      "updated": 1657634952425,
+      "created": 1657629869144,
+      "custom": {
+        "nav_order": 2
+      },
+      "fname": "os",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "Knowledge"
+      },
+      "contentHash": "d2497e75f23a15bb6b2b0a6bb82a3af6",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": null,
+      "data": {},
+      "body": "\n"
+    }
+  ],
+  "noteIndex": {
+    "id": "ocsje47s1ovu7we2ng0bkbz",
+    "title": "Home",
+    "desc": "",
+    "updated": 1658401933494,
+    "created": 1657629956614,
+    "custom": {
+      "nav_order": 0,
+      "permalink": "/"
+    },
+    "fname": "home",
+    "type": "note",
+    "vault": {
+      "fsPath": ".",
+      "selfContained": true,
+      "name": "Knowledge"
+    },
+    "contentHash": "3d26f5a5483974717e2af09b1bdac95c",
+    "links": [],
+    "anchors": {
+      "私のナレッジベースへようこそ": {
+        "type": "header",
+        "text": "私のナレッジベースへようこそ",
+        "value": "私のナレッジベースへようこそ",
+        "line": 8,
+        "column": 0,
+        "depth": 1
+      }
+    },
+    "children": [],
+    "parent": null,
+    "data": {},
+    "body": "\n# 私のナレッジベースへようこそ\n\nバラバラの知識をどうにか体系的にまとめるためのサイトです。\n"
+  },
+  "vaults": [
+    {
+      "fsPath": ".",
+      "selfContained": true,
+      "name": "Knowledge"
+    }
+  ]
+}
