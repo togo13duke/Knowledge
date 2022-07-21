@@ -2,20 +2,10 @@
 id: ocsje47s1ovu7we2ng0bkbz
 title: Home
 desc: ''
-updated: 1657630003324
+updated: 1658401933494
 created: 1657629956614
 ---
 
-# Welcome to Dendron
+# 私のナレッジベースへようこそ
 
-This is the root of your dendron vault. If you decide to publish your entire vault, this will be your landing page. You are free to customize any part of this page except the frontmatter on top.
-
-## Lookup
-
-This section contains useful links to related resources.
-
-- [Getting Started Guide](https://link.dendron.so/6b25)
-- [Discord](https://link.dendron.so/6b23)
-- [Home Page](https://wiki.dendron.so/)
-- [Github](https://link.dendron.so/6b24)
-- [Developer Docs](https://docs.dendron.so/)
+バラバラの知識をどうにか体系的にまとめるためのサイトです。

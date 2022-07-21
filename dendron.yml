@@ -71,6 +71,7 @@ workspace:
   maxPreviewsCached: 10
   maxNoteLength: 204800
   enableFullHierarchyNoteTitle: false
+  enableSmartRefs: false
 preview:
   enableFMTitle: true
   enableNoteTitleForLink: true
@@ -90,13 +91,15 @@ publishing:
   logoPath: notes/assets/images/logo.jpeg
   siteHierarchies:
     - home
-    - program
+    - programming
     - os
-    - daily
+    - database
+    - network
+    - cloud
     - tags
   writeStubs: false
   siteRootDir: docs
-  siteUrl: "https://knowledge.duke13.com"
+  siteUrl: https://knowledge.duke13.com
   seo:
     title: Duke13 Knowledge
     description: Duke13's Knowledge Space
@@ -105,7 +108,7 @@ publishing:
     editLinkText: Edit this page on GitHub
     editBranch: master
     editViewMode: tree
-    editRepository: "https://github.com/togo13duke/Knowledge"
+    editRepository: https://github.com/togo13duke/Knowledge
   enableSiteLastModified: true
   enableFrontmatterTags: true
   enableHashesForFMTags: false
