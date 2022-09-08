@@ -1,0 +1,49 @@
+{
+  "roots": [
+    {
+      "key": "ocsje47s1ovu7we2ng0bkbz",
+      "title": "Home",
+      "icon": null,
+      "hasTitleNumberOutlined": false,
+      "vaultName": "Knowledge",
+      "navExclude": false,
+      "children": []
+    },
+    {
+      "key": "a30pc3enkt5naijthr3nuzc",
+      "title": "Python",
+      "icon": null,
+      "hasTitleNumberOutlined": false,
+      "vaultName": "Knowledge",
+      "navExclude": false,
+      "children": [
+        {
+          "key": "i3dyljwjzn5ibud4anomj77",
+          "title": "Python 基礎",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "Knowledge",
+          "navExclude": false,
+          "children": [
+            {
+              "key": "8nt1ojek88fcivf37xf4wxk",
+              "title": "イントロダクション",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Knowledge",
+              "navExclude": false,
+              "children": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "child2parent": {
+    "403": null,
+    "a30pc3enkt5naijthr3nuzc": null,
+    "i3dyljwjzn5ibud4anomj77": "a30pc3enkt5naijthr3nuzc",
+    "8nt1ojek88fcivf37xf4wxk": "i3dyljwjzn5ibud4anomj77",
+    "ocsje47s1ovu7we2ng0bkbz": null
+  }
+}

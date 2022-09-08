@@ -1,0 +1,364 @@
+{
+  "notes": {
+    "403": {
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "Knowledge"
+      },
+      "fname": "403",
+      "id": "403",
+      "title": "This page has not yet sprouted",
+      "schemaStub": false,
+      "type": "note",
+      "updated": 1662640898620,
+      "created": 1662640898620,
+      "desc": "",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": null,
+      "data": {}
+    },
+    "a30pc3enkt5naijthr3nuzc": {
+      "id": "a30pc3enkt5naijthr3nuzc",
+      "title": "Python",
+      "desc": "",
+      "updated": 1662617573019,
+      "created": 1658401955837,
+      "custom": {
+        "nav_order": 1
+      },
+      "fname": "python",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "Knowledge"
+      },
+      "contentHash": "93f3a80237007184754fa4e71a0a856d",
+      "links": [
+        {
+          "type": "ref",
+          "from": {
+            "fname": "python",
+            "id": "a30pc3enkt5naijthr3nuzc",
+            "vaultName": "Knowledge"
+          },
+          "value": "python.gettingstarted",
+          "position": {
+            "start": {
+              "line": 40,
+              "column": 1,
+              "offset": 817
+            },
+            "end": {
+              "line": 40,
+              "column": 27,
+              "offset": 843
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "to": {
+            "fname": "python.gettingstarted"
+          }
+        }
+      ],
+      "anchors": {
+        "pythonの概要使用領域展望": {
+          "type": "header",
+          "text": "Pythonの概要・使用領域・展望",
+          "value": "pythonの概要使用領域展望",
+          "line": 10,
+          "column": 0,
+          "depth": 2
+        },
+        "python基礎": {
+          "type": "header",
+          "text": "Python基礎",
+          "value": "python基礎",
+          "line": 44,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [
+        "i3dyljwjzn5ibud4anomj77"
+      ],
+      "parent": null,
+      "data": {}
+    },
+    "i3dyljwjzn5ibud4anomj77": {
+      "id": "i3dyljwjzn5ibud4anomj77",
+      "title": "Python 基礎",
+      "desc": "",
+      "updated": 1662616824619,
+      "created": 1658403024986,
+      "custom": {},
+      "fname": "python.gettingstarted",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "Knowledge"
+      },
+      "contentHash": "6cd0cd4aafd568ee242c70547dcfe802",
+      "links": [
+        {
+          "from": {
+            "fname": "python",
+            "vaultName": "Knowledge"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 40,
+              "column": 1,
+              "offset": 817
+            },
+            "end": {
+              "line": 40,
+              "column": 27,
+              "offset": 843
+            },
+            "indent": []
+          },
+          "value": "python.gettingstarted"
+        }
+      ],
+      "anchors": {
+        "イントロダクション": {
+          "type": "header",
+          "text": "イントロダクション",
+          "value": "イントロダクション",
+          "line": 9,
+          "column": 0,
+          "depth": 2
+        },
+        "変数": {
+          "type": "header",
+          "text": "変数",
+          "value": "変数",
+          "line": 15,
+          "column": 0,
+          "depth": 2
+        },
+        "条件": {
+          "type": "header",
+          "text": "条件",
+          "value": "条件",
+          "line": 19,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [
+        "8nt1ojek88fcivf37xf4wxk"
+      ],
+      "parent": "a30pc3enkt5naijthr3nuzc",
+      "data": {}
+    },
+    "8nt1ojek88fcivf37xf4wxk": {
+      "id": "8nt1ojek88fcivf37xf4wxk",
+      "title": "イントロダクション",
+      "desc": "",
+      "updated": 1662617430567,
+      "created": 1662617412932,
+      "custom": {},
+      "fname": "python.gettingstarted.intro",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "Knowledge"
+      },
+      "contentHash": "6279462019e1d0e57b1a12f9b14fc916",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "i3dyljwjzn5ibud4anomj77",
+      "data": {}
+    },
+    "ocsje47s1ovu7we2ng0bkbz": {
+      "id": "ocsje47s1ovu7we2ng0bkbz",
+      "title": "Home",
+      "desc": "",
+      "updated": 1658401933494,
+      "created": 1657629956614,
+      "custom": {
+        "nav_order": 0,
+        "permalink": "/"
+      },
+      "fname": "home",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "Knowledge"
+      },
+      "contentHash": "3d26f5a5483974717e2af09b1bdac95c",
+      "links": [],
+      "anchors": {
+        "私のナレッジベースへようこそ": {
+          "type": "header",
+          "text": "私のナレッジベースへようこそ",
+          "value": "私のナレッジベースへようこそ",
+          "line": 8,
+          "column": 0,
+          "depth": 1
+        }
+      },
+      "children": [],
+      "parent": null,
+      "data": {}
+    }
+  },
+  "domains": [
+    {
+      "id": "ocsje47s1ovu7we2ng0bkbz",
+      "title": "Home",
+      "desc": "",
+      "updated": 1658401933494,
+      "created": 1657629956614,
+      "custom": {
+        "nav_order": 0,
+        "permalink": "/"
+      },
+      "fname": "home",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "Knowledge"
+      },
+      "contentHash": "3d26f5a5483974717e2af09b1bdac95c",
+      "links": [],
+      "anchors": {
+        "私のナレッジベースへようこそ": {
+          "type": "header",
+          "text": "私のナレッジベースへようこそ",
+          "value": "私のナレッジベースへようこそ",
+          "line": 8,
+          "column": 0,
+          "depth": 1
+        }
+      },
+      "children": [],
+      "parent": null,
+      "data": {},
+      "body": "\n# 私のナレッジベースへようこそ\n\nバラバラの知識をどうにか体系的にまとめるためのサイトです。\n"
+    },
+    {
+      "id": "a30pc3enkt5naijthr3nuzc",
+      "title": "Python",
+      "desc": "",
+      "updated": 1662617573019,
+      "created": 1658401955837,
+      "custom": {
+        "nav_order": 1
+      },
+      "fname": "python",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "Knowledge"
+      },
+      "contentHash": "93f3a80237007184754fa4e71a0a856d",
+      "links": [
+        {
+          "type": "ref",
+          "from": {
+            "fname": "python",
+            "id": "a30pc3enkt5naijthr3nuzc",
+            "vaultName": "Knowledge"
+          },
+          "value": "python.gettingstarted",
+          "position": {
+            "start": {
+              "line": 40,
+              "column": 1,
+              "offset": 817
+            },
+            "end": {
+              "line": 40,
+              "column": 27,
+              "offset": 843
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "to": {
+            "fname": "python.gettingstarted"
+          }
+        }
+      ],
+      "anchors": {
+        "pythonの概要使用領域展望": {
+          "type": "header",
+          "text": "Pythonの概要・使用領域・展望",
+          "value": "pythonの概要使用領域展望",
+          "line": 10,
+          "column": 0,
+          "depth": 2
+        },
+        "python基礎": {
+          "type": "header",
+          "text": "Python基礎",
+          "value": "python基礎",
+          "line": 44,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [
+        "i3dyljwjzn5ibud4anomj77"
+      ],
+      "parent": null,
+      "data": {},
+      "body": "\n0からPythonを学んだことをつらつら書きます。\n\n## Pythonの概要・使用領域・展望\n\nPythonを一言で紹介すると「エレガント」、「シンプル」、「簡単」なプログラミング言語です。\n以下の特徴やメリットがあります。\n\n- 学習曲線が低く、非エンジニアでも入門できる\n- オープンソースのため、コミッターが多く、生態系として強い\n- インタプリタ言語なので、クロスプラットフォーム対応\n- 動的言語の上、オブジェクト指向と関数型にも対応\n- コード規約が明確で可読性が高い\n\nPythonは以下の領域で活躍できる。\n\n- バックエンド : Python / Java / Go / C#\n- DevOps : Python / Shell / Ruby\n- データサイエンス : Python / R / Julia\n- 機械学習 : Python / R / C++ / Julia\n- 自動化テスト : Python / Shell\n\nPythonの開発者は自分の好きな領域と分野で選択できるキャリアも幅広い。\n\n- バックエンドエンジニア（サーバーサイド、Paas）\n- 運用エンジニア（自動化運用、DevOps）\n- データ分析エンジニア（データ分析、データ化運営）\n- テストエンジニア（自動化テスト）\n\n学び上の心得\n\n- Make English as your working language. (英語、英語、英語・・・)\n- Practice makes perfect. （とにかく慣れ）\n- All experience comes from mistakes. （失敗しまくれ）\n- Don't be one of the leeches. （もらう人になるな！与える人になれ）\n- Either outstanding or out. （成長しないならやめちまえ）\n\n## Python基礎\n\n![[python.gettingstarted]]\n\n"
+    }
+  ],
+  "noteIndex": {
+    "id": "ocsje47s1ovu7we2ng0bkbz",
+    "title": "Home",
+    "desc": "",
+    "updated": 1658401933494,
+    "created": 1657629956614,
+    "custom": {
+      "nav_order": 0,
+      "permalink": "/"
+    },
+    "fname": "home",
+    "type": "note",
+    "vault": {
+      "fsPath": ".",
+      "selfContained": true,
+      "name": "Knowledge"
+    },
+    "contentHash": "3d26f5a5483974717e2af09b1bdac95c",
+    "links": [],
+    "anchors": {
+      "私のナレッジベースへようこそ": {
+        "type": "header",
+        "text": "私のナレッジベースへようこそ",
+        "value": "私のナレッジベースへようこそ",
+        "line": 8,
+        "column": 0,
+        "depth": 1
+      }
+    },
+    "children": [],
+    "parent": null,
+    "data": {},
+    "body": "\n# 私のナレッジベースへようこそ\n\nバラバラの知識をどうにか体系的にまとめるためのサイトです。\n"
+  },
+  "vaults": [
+    {
+      "fsPath": ".",
+      "selfContained": true,
+      "name": "Knowledge"
+    }
+  ]
+}
