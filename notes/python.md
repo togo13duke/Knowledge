@@ -2,11 +2,9 @@
 id: a30pc3enkt5naijthr3nuzc
 title: Python
 desc: ''
-updated: 1658403966860
+updated: 1662616803484
 created: 1658401955837
 ---
-
-# Python 学習メモ
 
 0からPythonを学んだことをつらつら書きます。
 
@@ -44,12 +42,7 @@ Pythonの開発者は自分の好きな領域と分野で選択できるキャ�
 - Don't be one of the leeches. （もらう人になるな！与える人になれ）
 - Either outstanding or out. （成長しないならやめちまえ）
 
-## [[Python言語基礎 | programming.python.basic.md]]
+## [[Python基礎 | python.gettingstarted]]
 
-### [[ようこそPython | programming.python.basic.gettingstarted.md]]
+![[python.gettingstarted]]
 
-- Pythonの紹介 : 歴史 / メリット・デリメット
-- 環境構築
-- Helloworld
-- Visual Studio Code / Pycharm
-- コメント

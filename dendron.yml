@@ -91,11 +91,7 @@ publishing:
   logoPath: notes/assets/images/logo.jpeg
   siteHierarchies:
     - home
-    - programming
-    - os
-    - database
-    - network
-    - cloud
+    - python
     - tags
   writeStubs: false
   siteRootDir: docs
