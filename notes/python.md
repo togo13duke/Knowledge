@@ -2,7 +2,7 @@
 id: a30pc3enkt5naijthr3nuzc
 title: Python
 desc: ''
-updated: 1662616803484
+updated: 1662617573019
 created: 1658401955837
 ---
 
@@ -42,7 +42,7 @@ Pythonの開発者は自分の好きな領域と分野で選択できるキャ�
 - Don't be one of the leeches. （もらう人になるな！与える人になれ）
 - Either outstanding or out. （成長しないならやめちまえ）
 
-## [[Python基礎 | python.gettingstarted]]
+## Python基礎
 
 ![[python.gettingstarted]]
 
